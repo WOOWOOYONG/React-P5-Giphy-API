@@ -69,6 +69,10 @@ const Giphy = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (!search) {
+      alert("What are you searching for ?");
+      return;
+    }
     setIsError(false);
     setIsloading(true);
 
