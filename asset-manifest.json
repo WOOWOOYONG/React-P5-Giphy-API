@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-P5-Giphy-API/static/css/main.178b33d4.css",
+    "main.js": "/React-P5-Giphy-API/static/js/main.309d0588.js",
+    "index.html": "/React-P5-Giphy-API/index.html",
+    "main.178b33d4.css.map": "/React-P5-Giphy-API/static/css/main.178b33d4.css.map",
+    "main.309d0588.js.map": "/React-P5-Giphy-API/static/js/main.309d0588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.178b33d4.css",
+    "static/js/main.309d0588.js"
+  ]
+}
